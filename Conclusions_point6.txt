@@ -1,0 +1,7 @@
+Certain initial clusters can be observed in the datasets, for example in the noyse_circles dataset
+it can be said that 2 clusters are observed, just like noisy_moons.
+
+For datasets that are not linear and with some defined behavior, better performance is observed in DBSCAN and spectral clustering,
+For data sets where no initial trend is observed but scattered points, KMeans and Kmedoids behave better.
+
+
